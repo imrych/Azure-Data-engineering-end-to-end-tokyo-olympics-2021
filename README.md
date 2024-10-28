@@ -46,5 +46,6 @@ We create visually compelling dashboards using a combination of tools:
 
 ---
 
-If you want to learn more about this project, check out this video: https://www.youtube.com/watch?v=IaA9YNlg5hM 🎥
-
+If you want to learn more about this project, check out this video: 
+- **Part 1:** https://www.youtube.com/watch?v=IaA9YNlg5hM 🎥
+- **Part 2:** https://www.youtube.com/watch?v=nW0ffUW2vw4&t 🎥
