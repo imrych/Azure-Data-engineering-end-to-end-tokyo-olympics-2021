@@ -1,8 +1,5 @@
-Sure! Here’s the updated README without hypertext for the link:
 
----
-
-# 🌟 Azure Data Engineering: End-to-End Tokyo Olympics 2021
+ 🌟 Azure Data Engineering: End-to-End Tokyo Olympics 2021
 
 A beginner Azure project that analyzes Tokyo Olympic 2021 data using various tools and technologies, including Azure Data Factory, Data Lake Gen2, Synapse Analytics, and Azure Databricks. 🏅
 
