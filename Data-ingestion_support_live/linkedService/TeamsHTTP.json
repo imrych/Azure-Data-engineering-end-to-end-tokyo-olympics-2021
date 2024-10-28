@@ -1,0 +1,13 @@
+{
+    "name": "TeamsHTTP",
+    "type": "Microsoft.DataFactory/factories/linkedservices",
+    "properties": {
+        "annotations": [],
+        "type": "HttpServer",
+        "typeProperties": {
+            "url": "https://github.com/imrych/Azure-Data-engineering-end-to-end-tokyo-olympics-2021/raw/main/Data/Teams.csv",
+            "enableServerCertificateValidation": true,
+            "authenticationType": "Anonymous"
+        }
+    }
+}

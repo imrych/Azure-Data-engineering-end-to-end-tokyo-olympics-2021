@@ -1,0 +1,6 @@
+selected resource name:		Data-ingestion
+selected resource type:		pipeline
+factory name:			olympics2021-tokyo
+factory location:		southeastasia
+subscription id:		583bbe14-2a25-4e4c-b233-399bf92b6b7e
+time of download (UTC):		Mon, 28 Oct 2024 08:44:49 GMT
